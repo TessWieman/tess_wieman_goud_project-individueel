@@ -125,7 +125,7 @@ section a {
 
 .box-five {
     width: 48.5%;
-    height: 24vh;
+    height: 22vh;
     background-color: #e0e0e0;
     margin-right: 3%;
 }
@@ -136,7 +136,7 @@ section a {
 
 .box-six {
     width: 48.5%;
-    height: 24vh;
+    height: 22vh;
     background-color: #e0e0e0;
 }
 
@@ -148,7 +148,7 @@ section a {
     font-weight: 800;
     text-align: center;
     border-radius: 20%;
-    margin: 5%;
+    margin: 2%;
     padding: 3%;
     text-decoration: none;
     color: white;
@@ -161,8 +161,7 @@ section a {
     font-weight: 800;
     text-align: center;
     border-radius: 20%;
-    margin-top: 15%;
-    margin: 5%;
+    margin: 2%;
     padding: 3%;
     text-decoration: none;
     color: white;
