@@ -16,7 +16,6 @@ header nav {
 }
 
 .welkom-text {
-    width: 100%;
     text-align: center;
 }
   
@@ -55,8 +54,6 @@ section {
     width: 30vw;
     margin: auto;
     background-color: #43663d;
-    font-size: 100%;
-    font-weight: 800;
     text-align: center;
     border-radius: 20%;
     margin-top: 15%;
@@ -66,6 +63,8 @@ section {
 section a {
     text-decoration: none;
     color: white;
+    font-size: 100%;
+    font-weight: 800;
 }
 
 .rij-1 {
@@ -230,12 +229,9 @@ section a {
     margin-right: 3%; 
 }
 
-
 .home-button {
     width: 30vw;
     background-color: #43663d;
-    font-size: 100%;
-    font-weight: 800;
     text-align: center;
     border-radius: 20%;
     margin: 3% 35% 3% 35%;
@@ -244,4 +240,6 @@ section a {
 .home-button a {
     text-decoration: none;
     color: white;
+    font-size: 100%;
+    font-weight: 800;
 }
