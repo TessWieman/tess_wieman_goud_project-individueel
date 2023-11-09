@@ -50,12 +50,12 @@ img {
     margin-left: 3%;
 }
 
+/*    border-radius: 20%;*/
 section {
     width: 30vw;
     margin: auto;
     background-color: #43663d;
     text-align: center;
-    border-radius: 20%;
     margin-top: 15%;
     padding: 3% 0% 3% 0%;
 }
@@ -139,27 +139,26 @@ section a {
     background-color: #e0e0e0;
 }
 
-
+/*    border-radius: 20%;*/
 .twee-buttons :nth-child(1) {
     width: 30vw;
     background-color: #43663d;
     font-size: 100%;
     font-weight: 800;
     text-align: center;
-    border-radius: 20%;
     margin: 2%;
     padding: 3%;
     text-decoration: none;
     color: white;
 }
 
+/*    border-radius: 20%;*/
 .twee-buttons :nth-child(2) {
     width: 30vw;
     background-color: #43663d;
     font-size: 100%;
     font-weight: 800;
     text-align: center;
-    border-radius: 20%;
     margin: 2%;
     padding: 3%;
     text-decoration: none;
@@ -229,11 +228,11 @@ section a {
     margin-right: 3%; 
 }
 
+/*    border-radius: 20%;*/
 .home-button {
     width: 30vw;
     background-color: #43663d;
     text-align: center;
-    border-radius: 20%;
     margin: 3% 35% 3% 35%;
     padding: 3% 0% 3% 0%;
 }
