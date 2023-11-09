@@ -90,7 +90,7 @@ section a {
     color: white;
     line-height: 2.0;
     font-size: 115%;
-    padding: 2%
+    padding: 10% 2% 10% 2%;
 }
 
 .rij-2 {
@@ -190,7 +190,7 @@ section a {
 
 .box-eight {
     width: 28.5%;
-    background-color: #43663d;
+    background-color: #cc3929;
     color: white;
     font-size: 115%;
     padding: 3%;
